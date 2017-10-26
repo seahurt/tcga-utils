@@ -1,0 +1,984 @@
+[{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R852R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": false, 
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R862R", 
+        "annotation": {
+          "impact": "LOW"
+        }, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R884R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R881R", 
+        "is_canonical": true, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R497R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R480R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R871R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R861R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": "R852R", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PTPRT", 
+          "gene_id": "ENSG00000196090"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "3_prime_UTR_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr20:g.42161448C>A", 
+  "ssm_id": "ec9051ed-656c-543c-a8ab-11a0da4ea432", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "TRIM75P", 
+          "gene_id": "ENSG00000250374"
+        }, 
+        "aa_change": null, 
+        "annotation": {
+          "impact": "MODIFIER"
+        }, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr4:g.165059628T>G", 
+  "ssm_id": "97a1ead5-1367-5d17-aade-f6b96435129c", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CEP290", 
+          "gene_id": "ENSG00000198707"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CEP290", 
+          "gene_id": "ENSG00000198707"
+        }, 
+        "aa_change": "M364I", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CEP290", 
+          "gene_id": "ENSG00000198707"
+        }, 
+        "aa_change": "M1306I", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "CEP290", 
+          "gene_id": "ENSG00000198707"
+        }, 
+        "aa_change": "M1304I", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr12:g.88089149C>T", 
+  "ssm_id": "a422fdc8-d52d-5db9-9a77-77c4d2590c81", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "DAGLA", 
+          "gene_id": "ENSG00000134780"
+        }, 
+        "aa_change": "R104H", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "DAGLA", 
+          "gene_id": "ENSG00000134780"
+        }, 
+        "aa_change": "A112T", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr11:g.61722885G>A", 
+  "ssm_id": "37ee906d-a750-5493-81fb-eb36009f41e2", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "DNAH10", 
+          "gene_id": "ENSG00000197653"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "DNAH10", 
+          "gene_id": "ENSG00000197653"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "DNAH10", 
+          "gene_id": "ENSG00000197653"
+        }, 
+        "aa_change": "Q709H", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "DNAH10", 
+          "gene_id": "ENSG00000197653"
+        }, 
+        "aa_change": "Q584H", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr12:g.123801299G>T", 
+  "ssm_id": "7e42475c-3d8d-5782-989e-251f256cd3cc", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "upstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "intron_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "annotation": {
+          "impact": "MODIFIER"
+        }, 
+        "consequence_type": "5_prime_UTR_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "intron_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "5_prime_UTR_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "TNFAIP1", 
+          "gene_id": "ENSG00000109079"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "5_prime_UTR_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr17:g.28339480A>G", 
+  "ssm_id": "25e701d2-aaac-5b3f-a07c-eb4be4b85a86", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "upstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L694L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "3_prime_UTR_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L695L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L665L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L112L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L466L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L747L", 
+        "annotation": {
+          "impact": "LOW"
+        }, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SNX14", 
+          "gene_id": "ENSG00000135317"
+        }, 
+        "aa_change": "L738L", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr6:g.85517783G>A", 
+  "ssm_id": "5f43f4cb-e289-529d-99a0-a59e88cdd132", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": false, 
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "annotation": {
+          "impact": "MODIFIER"
+        }, 
+        "consequence_type": "3_prime_UTR_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": true, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "3_prime_UTR_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CLEC2D", 
+          "gene_id": "ENSG00000069493"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr12:g.9695504A>G", 
+  "ssm_id": "6867808d-3b39-5afb-a4e9-296e8b61959b", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "ZSCAN12", 
+          "gene_id": "ENSG00000158691"
+        }, 
+        "aa_change": "A282A", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "ZSCAN12", 
+          "gene_id": "ENSG00000158691"
+        }, 
+        "aa_change": "A282A", 
+        "annotation": {
+          "impact": "LOW"
+        }, 
+        "consequence_type": "synonymous_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr6:g.28391444A>C", 
+  "ssm_id": "036ae00c-e622-55e0-b754-4ec9b17116bb", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "PLEKHA6", 
+          "gene_id": "ENSG00000143850"
+        }, 
+        "aa_change": "P938H", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "PLEKHA6", 
+          "gene_id": "ENSG00000143850"
+        }, 
+        "aa_change": "P958H", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr1:g.204228800G>T", 
+  "ssm_id": "18e8fe3e-fbe1-56c9-af55-42233cff71aa", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "B3GALT1", 
+          "gene_id": "ENSG00000172318"
+        }, 
+        "aa_change": "E104K", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr2:g.167869349G>A", 
+  "ssm_id": "a2ab8cf0-9d34-54cb-8f19-ad9b0419ac21", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SYNPO", 
+          "gene_id": "ENSG00000171992"
+        }, 
+        "aa_change": "V495I", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SYNPO", 
+          "gene_id": "ENSG00000171992"
+        }, 
+        "aa_change": "V739I", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SYNPO", 
+          "gene_id": "ENSG00000171992"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "downstream_gene_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "SYNPO", 
+          "gene_id": "ENSG00000171992"
+        }, 
+        "aa_change": "V495I", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "SYNPO", 
+          "gene_id": "ENSG00000171992"
+        }, 
+        "aa_change": "V739I", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr5:g.150649758G>A", 
+  "ssm_id": "9ed351df-e4e4-55be-8045-a1be0abbdf23", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CACNA1H", 
+          "gene_id": "ENSG00000196557"
+        }, 
+        "aa_change": "G159G", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CACNA1H", 
+          "gene_id": "ENSG00000196557"
+        }, 
+        "aa_change": "G159G", 
+        "is_canonical": false, 
+        "consequence_type": "synonymous_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "CACNA1H", 
+          "gene_id": "ENSG00000196557"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "CACNA1H", 
+          "gene_id": "ENSG00000196557"
+        }, 
+        "aa_change": "G159G", 
+        "annotation": {
+          "impact": "LOW"
+        }, 
+        "consequence_type": "synonymous_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr16:g.1195497G>A", 
+  "ssm_id": "acd9e311-915a-5865-8add-d2b2efd99283", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R379K", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R371K", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": null, 
+        "is_canonical": false, 
+        "consequence_type": "non_coding_transcript_exon_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R379K", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "is_canonical": false, 
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R371K", 
+        "annotation": {
+          "impact": "MODERATE"
+        }, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R379K", 
+        "is_canonical": true, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R371K", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }, 
+    {
+      "transcript": {
+        "gene": {
+          "symbol": "A1CF", 
+          "gene_id": "ENSG00000148584"
+        }, 
+        "aa_change": "R371K", 
+        "is_canonical": false, 
+        "consequence_type": "missense_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr10:g.50816035C>T", 
+  "ssm_id": "4179e0c4-4a03-5ecf-a6c5-9a9e49c8b2c3", 
+  "mutation_subtype": "Single base substitution"
+},{
+  "consequence": [
+    {
+      "transcript": {
+        "is_canonical": true, 
+        "gene": {
+          "symbol": "FRK", 
+          "gene_id": "ENSG00000111816"
+        }, 
+        "aa_change": null, 
+        "annotation": {
+          "impact": "MODIFIER"
+        }, 
+        "consequence_type": "3_prime_UTR_variant"
+      }
+    }
+  ], 
+  "genomic_dna_change": "chr6:g.115942408C>T", 
+  "ssm_id": "addf11d2-681c-5a93-948f-1a368f178308", 
+  "mutation_subtype": "Single base substitution"
+}
+]
