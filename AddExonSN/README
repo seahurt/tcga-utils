@@ -1,0 +1,18 @@
+脚本addExonSN.sh会将输入的bed添加基因信息及外显子序号
+结果如下：
+1   115251113   115251273   NRAS.3
+4   55592020    55592209    KIT.9,KIT.10
+
+程序流程：
+调用sortByChr.sh为输入的bed文件进行排序
+调用bedtools,与参考bed进行intersect,为bed文件添加gene信息和外显子序号
+调用rmDupinBed.pl删除冗余信息合并多个外显子序号的情况
+
+参考的bed文件为：genExonRefBed/sorted.exon.bed
+该文件从Gff文件提取得到,只保留了NC开头的条目，即只包含在染色体上的外显子（1-22，X,Y,M）
+提取外显子的脚本在
+genExonRefBed/genExonSnBed.sh
+
+
+
+
