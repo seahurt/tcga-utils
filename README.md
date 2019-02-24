@@ -1,4 +1,4 @@
-# tcga_tools
+# tcga-utils
 Some tools to handle tcga data and common files
 
 
